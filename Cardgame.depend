@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1732286288 source:c:\users\kemicha\desktop\tp1ia\cardgame\main.cpp
+	<iostream>
+	<vector>
+	<tuple>
+	"EnergyCard.h"
+	"PokemonCard.h"
+	"TrainerCard.h"
+	"Player.h"
+
+1732435836 c:\users\kemicha\desktop\tp1ia\cardgame\include\pokemoncard.h
+	"Card.h"
+	<string>
+	<vector>
+	<tuple>
+
+1732196798 c:\users\kemicha\desktop\tp1ia\cardgame\include\card.h
+	<string>
+
+1732284545 source:c:\users\kemicha\desktop\tp1ia\cardgame\src\pokemoncard.cpp
+	"PokemonCard.h"
+	<iostream>
+
+1732262293 source:c:\users\kemicha\desktop\tp1ia\cardgame\src\card.cpp
+	"Card.h"
+
+1732270209 c:\users\kemicha\desktop\tp1ia\cardgame\include\energycard.h
+	"card.h"
+	<iostream>
+	<string>
+
+1732283724 c:\users\kemicha\desktop\tp1ia\cardgame\include\trainercard.h
+	"Card.h"
+	<string>
+	<vector>
+	"PokemonCard.h"
+
+1732270209 source:c:\users\kemicha\desktop\tp1ia\cardgame\src\energycard.cpp
+	"EnergyCard.h"
+
+1732283724 source:c:\users\kemicha\desktop\tp1ia\cardgame\src\trainercard.cpp
+	"TrainerCard.h"
+	<iostream>
+
+1732286263 source:c:\users\kemicha\desktop\tp1ia\cardgame\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1732286263 c:\users\kemicha\desktop\tp1ia\cardgame\include\player.h
+	<string>
+	<vector>
+	"Card.h"
+	"PokemonCard.h"
+
